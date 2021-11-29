@@ -665,7 +665,7 @@ Pour le flag 4 je ne sais pas. Une option serait de revenir en mode-réel pour r
 
 l'interruption 20h execute le code en 0x22cc et l'interruption 21h le code en 0x15c5
 
-0x22cc n'a pas l'air de faire grand chose à par incrémenter un compteur
+0x22cc n'a pas l'air de faire grand chose à part incrémenter un compteur
 
 0x15c5 semble venir récupérer les scan code des touches clavier pour les mapper avec un caractère 
 
